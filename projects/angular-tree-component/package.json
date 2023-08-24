@@ -1,15 +1,15 @@
 {
   "name": "@nubebytes/angular-tree-component",
-  "version": "12.0.4",
+  "version": "14.0.2",
   "description": "A simple yet powerful tree component for Angular 14+",
-  "author": "ali-hm",
-  "homepage": "https://github.com/ali-hm/angular-tree-component",
+  "author": "nubebytes",
+  "homepage": "https://github.com/irg1008/angular-tree-component",
   "license": "MIT",
-  "repository": "https://github.com/ali-hm/angular-tree-component.git",
+  "repository": "https://github.com/irg1008/angular-tree-component.git",
   "bugs": {
-    "url": "https://github.com/ali-hm/angular-tree-component/issues"
+    "url": "https://github.com/irg1008/angular-tree-component/issues"
   },
-  "readme": "https://github.com/ali-hm/angular-tree-component/blob/master/README.md",
+  "readme": "https://github.com/irg1008/angular-tree-component/blob/master/README.md",
   "keywords": [
     "ng",
     "angular",
@@ -33,7 +33,10 @@
     "mobx": "~4.14.1",
     "tslib": "^2.0.0"
   },
-  "devDependencies": {
-  },
-  "exports": { "./css/angular-tree-component.css": { "style": "./src/lib/angular-tree-component.css" } }
+  "devDependencies": {},
+  "exports": {
+    "./css/angular-tree-component.css": {
+      "style": "./src/lib/angular-tree-component.css"
+    }
+  }
 }
