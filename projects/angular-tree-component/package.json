@@ -35,5 +35,5 @@
   },
   "devDependencies": {
   },
-  "exports": { "./css/angular-tree-component.css": { "style": "./css/angular-tree-component.css" } }
+  "exports": { "./css/angular-tree-component.css": { "style": "./src/lib/angular-tree-component.css" } }
 }
